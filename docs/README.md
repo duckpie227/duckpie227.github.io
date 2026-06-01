@@ -1,4 +1,7 @@
-# Please start here
+# Welcome to duckpie227's webpage
 Hello World!
-This is the introductory descriptive text of the readme file.
-[Contact info](docs/contact.html)
+
+## Contact Info
+For primary assistance, check with [Saturn](docs/contact.html#saturn).
+
+Otherwise, see [contact info](docs/contact.html) for the broader team.
